@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71502179507",
+    "project_id": "quantakeys-dphs-company",
+    "storage_bucket": "quantakeys-dphs-company.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71502179507:android:baef74a6c761fedc6654c6",
+        "android_client_info": {
+          "package_name": "com.latenightbuilds.quantakeys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi4r2rxw4jrDy-Snk83W-8fFaLTuK45-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
